@@ -9,9 +9,9 @@ namespace Tyuiu.KarpenkoAL.Sprint1.Task2.V10.Test
         public void ValidExpression()
         {
             DataService ds = new DataService();
-            int x = 23;
+            int x = 6;
             var res = ds.ConvertMetreToInchs(x);
-            Assert.AreEqual(905.512, res);
+            Assert.AreEqual(236.221, res);
         }
     }
 }

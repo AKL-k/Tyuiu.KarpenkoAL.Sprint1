@@ -6,7 +6,7 @@ namespace Tyuiu.KarpenkoAL.Sprint1.Task2.V10.Lib
     {
         public double ConvertMetreToInchs(int value)
         {
-            return Math.Round(value * 39.3700787402, 3); 
+            return Math.Round(value * 39.3700987402, 3); 
         }
     }
 }
