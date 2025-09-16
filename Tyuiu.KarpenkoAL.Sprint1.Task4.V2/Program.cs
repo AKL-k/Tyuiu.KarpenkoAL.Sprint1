@@ -8,7 +8,7 @@ Console.WriteLine("*************************************************************
 Console.WriteLine("* Спринт #1                                                               *");
 Console.WriteLine("* Тема: Class Math                                                        *");
 Console.WriteLine("* Задание #4                                                              *");
-Console.WriteLine("* Вариант #2                                                             *");
+Console.WriteLine("* Вариант #2                                                              *");
 Console.WriteLine("* Выполнил: Карпенко Артём Леонидович | ИБКСб-25-1                        *");
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* УСЛОВИЕ:                                                                *");
