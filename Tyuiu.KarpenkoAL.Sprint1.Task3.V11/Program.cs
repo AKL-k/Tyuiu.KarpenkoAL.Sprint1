@@ -19,35 +19,35 @@ Console.WriteLine("*************************************************************
 Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
 Console.WriteLine("***************************************************************************");
 
-double x1;
+int x1;
 
 Console.WriteLine("Введите X1:");
-x1 = Convert.ToDouble(Console.ReadLine());
+x1 = Convert.ToInt32(Console.ReadLine());
 
-double y1;
+int y1;
 
 Console.WriteLine("Введите Y1:");
-y1 = Convert.ToDouble(Console.ReadLine());
+y1 = Convert.ToInt32(Console.ReadLine());
 
-double x2;
+int x2;
 
 Console.WriteLine("Введите X2:");
-x2 = Convert.ToDouble(Console.ReadLine());
+x2 = Convert.ToInt32(Console.ReadLine());
 
-double y2;
+int y2;
 
 Console.WriteLine("Введите Y2:");
-y2 = Convert.ToDouble(Console.ReadLine());
+y2 = Convert.ToInt32(Console.ReadLine());
 
-double x3;
+int x3;
 
 Console.WriteLine("Введите X3:");
-x3 = Convert.ToDouble(Console.ReadLine());
+x3 = Convert.ToInt32(Console.ReadLine());
 
-double y3;
+int y3;
 
 Console.WriteLine("Введите Y3:");
-y3 = Convert.ToDouble(Console.ReadLine());
+y3 = Convert.ToInt32(Console.ReadLine());
 
 
 Console.WriteLine("***************************************************************************");
