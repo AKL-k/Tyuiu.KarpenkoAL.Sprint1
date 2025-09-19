@@ -6,7 +6,7 @@ Console.Title = "Спринт #1 | Выполнил: Карпенко А. Л. | 
 
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* Спринт #1                                                               *");
-Console.WriteLine("* Тема: Class Math                                                        *");
+Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");
 Console.WriteLine("* Задание #7                                                              *");
 Console.WriteLine("* Вариант #25                                                             *");
 Console.WriteLine("* Выполнил: Карпенко Артём Леонидович | ИБКСб-25-1                        *");
