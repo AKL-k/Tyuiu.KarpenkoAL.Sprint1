@@ -6,9 +6,9 @@ Console.Title = "Спринт #1 | Выполнил: Карпенко А. Л. | 
 
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* Спринт #1                                                               *");
-Console.WriteLine("* Тема: Преобразование типов и класс Convert                              *");
+Console.WriteLine("* Тема: Работа со строками класс String                                   *");
 Console.WriteLine("* Задание #6                                                              *");
-Console.WriteLine("* Вариант #18                                                              *");
+Console.WriteLine("* Вариант #18                                                             *");
 Console.WriteLine("* Выполнил: Карпенко Артём Леонидович | ИБКСб-25-1                        *");
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* УСЛОВИЕ:                                                                *");
